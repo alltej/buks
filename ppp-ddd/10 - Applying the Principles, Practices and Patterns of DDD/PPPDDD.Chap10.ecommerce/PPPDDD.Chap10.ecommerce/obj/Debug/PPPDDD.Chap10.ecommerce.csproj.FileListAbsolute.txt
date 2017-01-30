@@ -1,0 +1,5 @@
+C:\Users\IEUser\PPPDDD\10 - Applying the Principles, Practices and Patterns of DDD\PPPDDD.Chap10.ecommerce\PPPDDD.Chap10.ecommerce\bin\Debug\PPPDDD.Chap10.ecommerce.dll
+C:\Users\IEUser\PPPDDD\10 - Applying the Principles, Practices and Patterns of DDD\PPPDDD.Chap10.ecommerce\PPPDDD.Chap10.ecommerce\bin\Debug\PPPDDD.Chap10.ecommerce.pdb
+C:\Users\IEUser\PPPDDD\10 - Applying the Principles, Practices and Patterns of DDD\PPPDDD.Chap10.ecommerce\PPPDDD.Chap10.ecommerce\obj\Debug\PPPDDD.Chap10.ecommerce.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\PPPDDD\10 - Applying the Principles, Practices and Patterns of DDD\PPPDDD.Chap10.ecommerce\PPPDDD.Chap10.ecommerce\obj\Debug\PPPDDD.Chap10.ecommerce.dll
+C:\Users\IEUser\PPPDDD\10 - Applying the Principles, Practices and Patterns of DDD\PPPDDD.Chap10.ecommerce\PPPDDD.Chap10.ecommerce\obj\Debug\PPPDDD.Chap10.ecommerce.pdb
